@@ -1,0 +1,27 @@
+-Creamos el archivo word "avantprojecte"(Stuard).
+-Lo rellenamos con la informacion correspondiente. (Stuard/Jaime).
+-Creamos las respectivas carpetas para meter el contenido respectivo en cada una de ellas. (Jaime).
+-Creamos el logotipo utilizando distintos programas de edicion de imagen.(Jaime)
+-Actualizamos el archivo word "avantprojecte", ampliando y mejorando los detalles.(Stuard)
+-Creamos el archivo excel, "pressupostos". (Stuard/Jaime).
+-Creamos el planner y los formamos a lo que nos pide la practica, poniendo lo que hacemos dentro del trabajo y cuanto tiempo. (Jaime)
+-Actualizamos el contenido de nuestro word. (Stuard).
+-Arreglamos pequeños errores del presupuesto y la plannificacion. (Stuard/Jaime).
+-Nos organizamos a hacer la pagina web por Wordpresss y por HTML. (Stuard/Jaime).
+-Creamos el mapa fisico. (Stuard/Jaime).
+-Ideamos un mapa logico. (Stuard).
+-Organizamos el mapa logico. (Stuard).
+-Configuramos el mapa logico. (Stuard).
+-Pulimos el mapa fisico. (Stuard/Jaime).
+-Creamos y organizamos el archivo rack.pdf. (Stuard/Jaime).
+-Organizamos la carpeta de sistemas y servicios. (Stuard/Jaime).
+-Creamos el documento .odt de la guia de instalacion del SO de Windows 7.(Jaime).
+-Creamos el documento .odt de demostracion del servicio DHCP.(Stuard).
+-Creamos la pagina web via Wordpress dedicado al encargo.(Jaime).
+-Creamos la pagina web por Html de nuestra empresa.(Jaime).
+-Creamos el archivo de contratos. (Jaime).
+-Hemos rellenado completamente el equipo .odt DHCP con las guias correspondientes. (Stuard).
+-Creamos y completamos el Archivo .odt de los Servicios DNS. (Stuard).
+-Completar el apartado seguridad del Documento "HyperSoft". (Jaime).
+-Creamos y completamos el archivo contingencias. (Jaime).
+-Repasamos todos los directorios y arreglamos errores. (Stuard/Jaime).
